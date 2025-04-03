@@ -35,8 +35,8 @@ Mamba-Design-System/
 Projeyi yerel ortamınıza klonlamak için aşağıdaki adımları takip edebilirsiniz:
 
 ```sh
-git clone https://github.com/kullanici/mamba-design-system.git
-cd mamba-design-system
+git clone https://git@github.com:BRTCLK/Tailwind-CSS-Landing-Page.git
+cd Tailwind-CSS-Landing-Page
 ```
 
 Ardından, **index.html** dosyasını bir tarayıcıda açarak projeyi görüntüleyebilirsiniz.
